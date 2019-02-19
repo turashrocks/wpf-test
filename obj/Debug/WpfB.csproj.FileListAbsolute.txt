@@ -1,0 +1,15 @@
+C:\Users\Turash\source\repos\WpfB\WpfB\obj\Debug\WpfB.csprojAssemblyReference.cache
+C:\Users\Turash\source\repos\WpfB\WpfB\obj\Debug\MainWindow.g.cs
+C:\Users\Turash\source\repos\WpfB\WpfB\obj\Debug\App.g.cs
+C:\Users\Turash\source\repos\WpfB\WpfB\obj\Debug\WpfB_MarkupCompile.cache
+C:\Users\Turash\source\repos\WpfB\WpfB\obj\Debug\WpfB_MarkupCompile.lref
+C:\Users\Turash\source\repos\WpfB\WpfB\bin\Debug\WpfB.exe.config
+C:\Users\Turash\source\repos\WpfB\WpfB\bin\Debug\WpfB.exe
+C:\Users\Turash\source\repos\WpfB\WpfB\bin\Debug\WpfB.pdb
+C:\Users\Turash\source\repos\WpfB\WpfB\obj\Debug\MainWindow.baml
+C:\Users\Turash\source\repos\WpfB\WpfB\obj\Debug\WpfB.g.resources
+C:\Users\Turash\source\repos\WpfB\WpfB\obj\Debug\WpfB.Properties.Resources.resources
+C:\Users\Turash\source\repos\WpfB\WpfB\obj\Debug\WpfB.csproj.GenerateResource.cache
+C:\Users\Turash\source\repos\WpfB\WpfB\obj\Debug\WpfB.csproj.CoreCompileInputs.cache
+C:\Users\Turash\source\repos\WpfB\WpfB\obj\Debug\WpfB.exe
+C:\Users\Turash\source\repos\WpfB\WpfB\obj\Debug\WpfB.pdb
